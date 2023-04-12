@@ -20,3 +20,5 @@ step 3: to watch any changes
 ```
 npm run watch
 ```
+[view live](https://dreamy-dusk-430166.netlify.app/)
+
